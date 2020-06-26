@@ -1,10 +1,8 @@
  .fa {
-    padding: 20px;
-    font-size: 250% ;
+    font-size: 200% ;
     text-align: center;
     text-decoration: none;
-    margin: 10px 10px;
-    border-radius:20%
+    margin: 8px 8px;
 }
   
   .fa:hover {
@@ -12,18 +10,18 @@
   }
   
   .fa-linkedin {
-    background: #007bb5;
     color: white;
   }
   
-  .fa-youtube {
-    background: #bb0000;
+  .fa-youtube-play {
     color: white;
   }
   
   .fa-instagram {
-    background: #d6249f;
-    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color: white;
+  }
+
+  .fa-github {
     color: white;
   }
   
