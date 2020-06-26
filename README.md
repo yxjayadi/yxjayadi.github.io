@@ -1,5 +1,10 @@
-# https://www.jayadisyoga.github.io
+# web
 
 landing page dengan github
 
-web page dengan extensi fullpage.js dari https://alvarotrigo.com/fullPage/
+JS used:
+* FullpageJS      https://alvarotrigo.com/fullPage/
+* typewriter.JS   https://safi.me.uk/typewriterjs/
+
+alternative (beta)
+https://jayadisyoga.web.app
