@@ -1,4 +1,4 @@
-# https://wwww.jayadisyoga.github.io
+# https://www.jayadisyoga.github.io
 
 landing page dengan github
 
