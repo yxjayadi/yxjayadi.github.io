@@ -8,3 +8,4 @@ JS used:
 
 alternative (beta)
 https://jayadisyoga.web.app
+https://yogasuryaja.web.app (v2)
