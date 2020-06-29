@@ -1,11 +1,20 @@
 # web
 
-landing page dengan github
-
 JS used:
 * FullpageJS      https://alvarotrigo.com/fullPage/
 * typewriter.JS   https://safi.me.uk/typewriterjs/
+‏‏‎ ‎
+implementation (beta)
+* https://jayadisyoga.web.app
+‏‏‎ ‎
+‏‏‎ ‎
+‏‏‎ ‎
+‏‏‎ ‎
+other link
+https://yogasuryaja.web.app (Test Hosting)
+jayadisyoga.github.io/blog
+sites.google.com/view/ysj
+about.me/ysj
 
-alternative (beta)
-* https://jayadisyoga.web.app (v1)
-* https://yogasuryaja.web.app (v2)
+
+
