@@ -6,15 +6,12 @@ JS used:
 ‏‏‎ ‎
 implementation (beta)
 * https://jayadisyoga.web.app
-‏‏‎ ‎
-‏‏‎ ‎
-‏‏‎ ‎
-‏‏‎ ‎
+
 other link
-https://yogasuryaja.web.app (Test Hosting)
-jayadisyoga.github.io/blog
-sites.google.com/view/ysj
-about.me/ysj
+* https://yogasuryaja.web.app (Test Hosting)
+* jayadisyoga.github.io/blog
+* sites.google.com/view/ysj
+* about.me/ysj
 
 
 
