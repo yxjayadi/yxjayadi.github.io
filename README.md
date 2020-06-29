@@ -9,9 +9,9 @@ implementation (beta)
 
 other link
 * https://yogasuryaja.web.app (Test Hosting)
-* jayadisyoga.github.io/blog
-* sites.google.com/view/ysj
-* about.me/ysj
+* https://jayadisyoga.github.io/blog
+* https://sites.google.com/view/ysj
+* https://about.me/ysj
 
 
 
