@@ -47,3 +47,32 @@ h2{
     background: -webkit-linear-gradient(#92a1ca, #76c2bd);
     background: linear-gradient(#92a1ca,#76c2bd);
 }
+
+.button {
+    display: inline-block;
+    line-height: 3em;
+    color: #fff;
+    padding: 0 1em;
+    background: #34343E;
+    border-radius: 0.125em;
+    background-clip: padding-box;
+    margin-right: 1em;
+    cursor: pointer;
+}
+
+.button--ghost {
+	border: 1px solid #EEE !important;
+    background: none;
+}
+
+.button--ghost:hover {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+
+.bawah {
+    position: absolute;
+    bottom: 0%;
+    font-size: 1em;
+}

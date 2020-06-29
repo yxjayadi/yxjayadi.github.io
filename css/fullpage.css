@@ -69,6 +69,7 @@ html.fp-enabled,
     -webkit-transform: translate3d(0,0,0);
     -ms-transform: translate3d(0,0,0);
     transform: translate3d(0,0,0);
+    opacity: 0.5;
 }
 .fp-controlArrow.fp-prev {
     left: 15px;
