@@ -14,5 +14,7 @@ other link
 * https://sites.google.com/view/ysj
 * https://about.me/ysj
 
-
+asset
+* https://github.com/jayadisyoga/jayadisyoga.github.io/tree/master/asset
+* include resume and APK
 
