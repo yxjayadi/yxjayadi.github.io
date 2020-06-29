@@ -1,20 +1,21 @@
 # web
 
 JS used:
-* FullpageJS      https://alvarotrigo.com/fullPage/
-* typewriter.JS   https://safi.me.uk/typewriterjs/
+* [FullpageJS](https://alvarotrigo.com/fullPage/)
+* [typewriter.JS](https://safi.me.uk/typewriterjs/)
 
 implementation (beta)
-* https://jayadisyoga.web.app
+* [Jayadisyoga.web.app](https://jayadisyoga.web.app)
 
 other link
-* https://jayadisyoga.github.io
-* https://jayadisyoga.github.io/blog
-* https://yogasuryaja.web.app (firebase test)
-* https://sites.google.com/view/ysj
-* https://about.me/ysj
+* [Github](https://jayadisyoga.github.io)
+* [Github Blog](https://jayadisyoga.github.io/blog)
+* [Firebase Test](https://yogasuryaja.web.app) (firebase test)
+* [Google Sites](https://sites.google.com/view/ysj)
+* [About.me](https://about.me/ysj)
 
 asset
-* https://github.com/jayadisyoga/jayadisyoga.github.io/tree/master/asset
-* include resume and APK
+* [asset on github](https://github.com/jayadisyoga/jayadisyoga.github.io/tree/master/asset)
+* [APK](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/master/asset/ysj.apk)
+* [RESUME](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/78e3417e906fa158cf3176b45bddd31ed2655114/asset/Yogasuryajayadi%20%5Bver.4.2%20pub%5D.pdf)
 
