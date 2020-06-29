@@ -3,7 +3,7 @@
 JS used:
 * FullpageJS      https://alvarotrigo.com/fullPage/
 * typewriter.JS   https://safi.me.uk/typewriterjs/
-‏‏‎ ‎
+
 implementation (beta)
 * https://jayadisyoga.web.app
 
