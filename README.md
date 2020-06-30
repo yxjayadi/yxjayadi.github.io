@@ -1,5 +1,3 @@
-# web
-
 implementation (beta)
 * [Jayadisyoga.web.app](https://jayadisyoga.web.app)
 
@@ -12,4 +10,4 @@ other link
 
 asset
 * [profile APK](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/master/asset/ysj.apk)
-* [profile RESUME](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/78e3417e906fa158cf3176b45bddd31ed2655114/asset/Yogasuryajayadi%20%5Bver.4.2%20pub%5D.pdf)
+* [profile RESUME](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/master/asset/Yogasuryajayadi-%5Bv.4.5%5D.pdf)
