@@ -1,9 +1,5 @@
 # web
 
-JS used:
-* [FullpageJS](https://alvarotrigo.com/fullPage/)
-* [typewriter.JS](https://safi.me.uk/typewriterjs/)
-
 implementation (beta)
 * [Jayadisyoga.web.app](https://jayadisyoga.web.app)
 
@@ -15,6 +11,6 @@ other link
 * [About.me](https://about.me/ysj)
 
 asset
-* [APK](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/master/asset/ysj.apk)
-* [RESUME](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/78e3417e906fa158cf3176b45bddd31ed2655114/asset/Yogasuryajayadi%20%5Bver.4.2%20pub%5D.pdf)
+* [profile APK](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/master/asset/ysj.apk)
+* [profile RESUME](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/78e3417e906fa158cf3176b45bddd31ed2655114/asset/Yogasuryajayadi%20%5Bver.4.2%20pub%5D.pdf)
 
