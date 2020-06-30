@@ -8,7 +8,7 @@ implementation (beta)
 * [Jayadisyoga.web.app](https://jayadisyoga.web.app)
 
 other link
-* [Github](https://jayadisyoga.github.io)
+* [Github Profile](https://github.com/jayadisyoga)
 * [Github Blog](https://jayadisyoga.github.io/blog)
 * [Firebase Test](https://yogasuryaja.web.app) (firebase test)
 * [Google Sites](https://sites.google.com/view/ysj)
