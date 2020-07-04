@@ -1,4 +1,4 @@
-implementation (beta)
+implementation (beta) by Yogasuryajayadi / @jayadisyoga
 * [Jayadisyoga.web.app](https://jayadisyoga.web.app)
 
 other link
@@ -12,3 +12,4 @@ other link
 download
 * [apk](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/master/asset/ysj.apk)
 * [resume](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/master/asset/Yogasuryajayadi-%5Bv.4.5%5D.pdf)
+
