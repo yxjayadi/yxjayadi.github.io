@@ -10,6 +10,6 @@ other link
 * [About.me](https://about.me/ysj)
 
 download
-* [apk](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/master/asset/ysj.apk)
-* [resume](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/master/asset/Yogasuryajayadi-%5Bv.4.5%5D.pdf)
+* [demo APK](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/master/asset/ysj.apk)
+* [resume yoga surya jayadi](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/master/asset/Yogasuryajayadi-%5Bv.4.5%5D.pdf)
 
