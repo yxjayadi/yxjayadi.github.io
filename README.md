@@ -1,6 +1,6 @@
-implementation (beta) by Yogasuryajayadi / @jayadisyoga
-* [Jayadisyoga.web.app](https://jayadisyoga.web.app)
-* [Yogasuryajayadi.web.app](https://yogasuryajayadi.web.app)
+Release (Beta)
+* [1. Jayadisyoga.web.app](https://jayadisyoga.web.app)
+* [2. Yogasuryajayadi.web.app](https://yogasuryajayadi.web.app)
 
 dll
 * [Github Profile](https://github.com/jayadisyoga)
