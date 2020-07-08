@@ -1,13 +1,14 @@
 implementation (beta) by Yogasuryajayadi / @jayadisyoga
 * [Jayadisyoga.web.app](https://jayadisyoga.web.app)
+* [Yogasuryajayadi.web.app](https://yogasuryajayadi.web.app)
 
-other link
+dll
 * [Github Profile](https://github.com/jayadisyoga)
 * [Github Blog](https://jayadisyoga.github.io/blogit)
 * [Firebase Test](https://yogasuryaja.web.app) (firebase test)
-* [Firebase Test2](https:///yogasuryajayadi.web.app)
 * [Google Sites](https://sites.google.com/view/ysj)
 * [About.me](https://about.me/ysj)
+* [Blogger](https://yogasuryajayadi.blogspot.com)
 
 download
 * [demo APK](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/master/asset/ysj.apk)
