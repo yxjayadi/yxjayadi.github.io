@@ -6,7 +6,6 @@ Link
 * [About.me](https://about.me/ysj)
 * [Blogspot](https://yogasuryajayadi.blogspot.com)
 * [Github Profile](https://github.com/jayadisyoga)
-* [Github Blog](https://jayadisyoga.github.io/blogit)
 * [Google Site](https://sites.google.com/view/ysj)
 
 Download
