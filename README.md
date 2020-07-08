@@ -11,6 +11,6 @@ dll
 * [Google Sites](https://sites.google.com/view/ysj)
 
 download
-* [demo APK](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/master/asset/ysj.apk)
-* [resume yoga surya jayadi via GoogleSite](https://sites.google.com/view/ysj)
+* [APK (Demo)](https://raw.githubusercontent.com/jayadisyoga/jayadisyoga.github.io/master/asset/ysj.apk)
+* [CV/Resume (via GoogleSite)](https://sites.google.com/view/ysj)
 
