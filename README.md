@@ -7,6 +7,6 @@ Link
 * [Blogspot](https://yogasuryajayadi.blogspot.com)
 * [Github Profile](https://github.com/jayadisyoga)
 
-Download(APK, CV/resume, Portofolio..)
+Download(APK, CV/resume, Portofolio, Sertifikat,..)
 * [via GoogleSite](https://sites.google.com/view/ysj)
 
