@@ -8,5 +8,5 @@ Link
 * [Github Profile](https://github.com/jayadisyoga)
 
 Download(APK, CV/resume, Portofolio..)
-* [via GoogleSite)](https://sites.google.com/view/ysj)
+* [via GoogleSite](https://sites.google.com/view/ysj)
 
