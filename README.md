@@ -2,6 +2,10 @@ Release (Beta)
 * [1. Jayadisyoga.web.app](https://jayadisyoga.web.app)
 * [2. Yogasuryajayadi.web.app](https://yogasuryajayadi.web.app)
 * [3. Yogasuryaja.web.app](https://yogasuryaja.web.app)
+2020
+
+  2024
+  ysjayadi.web.app
 
 Link
 * [About.me](https://about.me/ysj)
